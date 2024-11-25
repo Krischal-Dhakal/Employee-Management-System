@@ -1,1 +1,1 @@
-# messageing-model
+# messaging-model
